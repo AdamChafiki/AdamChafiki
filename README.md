@@ -6,4 +6,4 @@
 
 💞️ I'm open to collaborating on React.js projects or any web development initiatives that align with my interests and expertise.
 
-📫 If you'd like to connect or collaborate, feel free to reach out via email at your@email.com or connect with me on GitHub.
+📫 If you'd like to connect or collaborate, feel free to reach out via email at adamchafiki3@email.com or connect with me on GitHub.
