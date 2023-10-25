@@ -2,7 +2,7 @@
 
 👀 On the front-end, I'm experienced with HTML, CSS, Js  and I love using frameworks like React.js to build engaging and responsive user interfaces. I also enjoy working with the utility-first CSS framework, Tailwind CSS, for efficient styling.
 
-🌱 In the back-end, I have a solid grasp of MongoDB, MySQL, and PHP for database management and server-side logic. Additionally, I'm proficient in Node.js and Express for building robust, scalable APIs.
+🌱 In the back-end, I have a solid grasp of MongoDB, MySQL, and Laravel for database management and server-side logic. Additionally, I'm proficient in Node.js and Express for building robust, scalable APIs.
 
 💞️ I'm open to collaborating on projects that require a mix of these technologies or exploring new opportunities where my skills can be put to good use. Whether it's developing a full-stack application or optimizing an existing system, I'm up for the challenge.
 
