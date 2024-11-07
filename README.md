@@ -3,7 +3,7 @@
 <p><em>Software Developer <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnNxYWkxaGwxNGpsbXBxNWIwcG1xbmFyZWZoaTF5YXo4YzM1ZTRwMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QXwtfadqo7wbfmT46H/giphy.webp" width="30">
 
 
-[![Linkedin: Adam Chafiki](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/adam-chafiki-8b593527b)]
+[![Linkedin: Adam Chafiki](https://img.shields.io/badge/-AdamChafiki-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/adam-chafiki-8b593527b)]
 [![GitHub Adam Chafiki](https://img.shields.io/github/followers/AdamChafiki?label=follow&style=social)](https://github.com/AdamChafiki)
 
 
