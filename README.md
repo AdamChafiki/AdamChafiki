@@ -1,9 +1,30 @@
-👋 Hi, I'm @AdamChafiki, a versatile web developer with a wide range of skills in both front-end and back-end technologies.
+<h2> Hi, I'm Adam CHAFIKI! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+<p><em>Software Developer at <a href="http://www.unb.br">Est Sidi Bennour</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer Consultant at <a href="https://www.thoughtworks.com">ThoughtWorks</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>
 
-👀 On the front-end, I'm experienced with HTML, CSS, Js  and I love using frameworks like React.js to build engaging and responsive user interfaces. I also enjoy working with the utility-first CSS framework, Tailwind CSS, for efficient styling.
+[![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/ThaiiBraga?style=social)](https://twitter.com/ThaiiBraga)
+[![Linkedin: thaianebraga](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/thaianebraga/)
+[![GitHub Thaiane](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/Thaiane)
 
-🌱 In the back-end, I have a solid grasp of MongoDB, MySQL, and Laravel for database management and server-side logic. Additionally, I'm proficient in Node.js and Express for building robust, scalable APIs. Node.js, a runtime environment that allows running JavaScript on the server-side, further enhances my ability to create dynamic and efficient web applications.
 
-💞️ I'm open to collaborating on projects that require a mix of these technologies or exploring new opportunities where my skills can be put to good use. Whether it's developing a full-stack application or optimizing an existing system, I'm up for the challenge.
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
-📫 If you'd like to connect, discuss potential collaborations, or just have a tech chat, you can reach me via email at adamchafiki3@email.com or find me on GitHub.
+```javascript
+const thai = {
+  pronouns: "he" | "him",
+  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
+  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
+  architecture: ["microservices", "event-driven", "design system pattern"],
+  techCommunities: {
+                        coorganizer: "AfroPython",
+                        speaker: "Latinity",
+                        mentor: "EducaTRANSforma"
+                      },
+ challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+}
+```
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+
+---
