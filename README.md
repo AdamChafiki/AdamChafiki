@@ -12,10 +12,9 @@
 ```javascript
 const chafiki = {
   pronouns: "he" | "him",
-  Technologies: ["Laravel","php","typescript","react","javascript","java","nodejs","expressjs","mySql","PostgreSql","MongoDb"]
+  Technologies: ["Laravel","php","typescript","react","javascript","java","nodejs","expressjs","mySql","PostgreSql","MongoDb"],
   learning: ["Spring Boot", "Angular"],
  challenge: "90Days Coding None Stop !"
-funFact: "Always eager to explore new tech!"
 
 }
 ```
