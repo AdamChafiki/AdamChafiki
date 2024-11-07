@@ -1,4 +1,4 @@
-<h2> Hi, I'm Adam CHAFIKI! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h2> Hi, I'm Adam CHAFIKI! <img src="[https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif](https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/200w.gif?cid=6c09b9527xebvlkuxnrpwbj33wgoblp3cislhix37eovqi2o&ep=v1_gifs_search&rid=200w.gif&ct=g)" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 <p><em>Software Developer at <a href="http://www.unb.br">Est Sidi Bennour</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer Consultant at <a href="https://www.thoughtworks.com">ThoughtWorks</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
