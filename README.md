@@ -7,7 +7,7 @@
 [![GitHub Thaiane](https://img.shields.io/github/followers/AdamChafiki?label=follow&style=social)](https://github.com/AdamChafiki)
 
 
-### <img src="https://giphy.com/gifs/fun-meme-hacker-B4dt6rXq6nABilHTYM" width="50"> A little more about me...  
+### <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmU1dHNsY21temxnNjlvNjdreTdxajQ5Yjd0anF6aXNtbGN1cTgzNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YQitE4YNQNahy/giphy.webp" width="50"> A little more about me...  
 
 ```javascript
 const chafiki = {
