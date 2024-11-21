@@ -7,7 +7,7 @@
 <h2 class="text-left text-3xl font-semibold mt-8">Languages & Technologies</h2>
 
 <div class="flex flex-wrap mt-4 space-x-4">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/tailwindcss-original.svg" height="35" alt="angular logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="35" alt="angular logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="javascript logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="35" alt="typescript logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" alt="react logo" />
