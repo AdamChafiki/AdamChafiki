@@ -1,24 +1,48 @@
-<h2> Hi, I'm Adam CHAFIKI! <img src="[https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif](https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/200w.gif?cid=6c09b9527xebvlkuxnrpwbj33wgoblp3cislhix37eovqi2o&ep=v1_gifs_search&rid=200w.gif&ct=g)" width="50"></h2>
-<img align='right' src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHBmdmtqdWYwaXN2amc4czBwejJlNWk0Zm5ia2xyZXZybW9zM2RuayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Dh5q0sShxgp13DwrvG/giphy.gif" width="230">
-<p><em>Software Developer <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnNxYWkxaGwxNGpsbXBxNWIwcG1xbmFyZWZoaTF5YXo4YzM1ZTRwMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QXwtfadqo7wbfmT46H/giphy.webp" width="30">
+<h2 align="left">About Me</h2>
 
+###
 
-[![Linkedin: Adam Chafiki](https://img.shields.io/badge/-AdamChafiki-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/adam-chafiki-8b593527b)]
-[![GitHub Adam Chafiki](https://img.shields.io/github/followers/AdamChafiki?label=follow&style=social)](https://github.com/AdamChafiki)
+<p align="left">I'm a Full-Stack Developer, passionate about building innovative and dynamic web applications. With experience in both front-end and back-end technologies, I craft seamless digital solutions. I specialize in technologies like JavaScript, TypeScript, React, Angular, Node.js, Express, PHP, Laravel, Java, Spring, MySQL, and MongoDB. I'm always exploring new trends and technologies to stay ahead and provide high-quality solutions. Let's collaborate to bring your ideas to life!</p>
 
+###
 
-### <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmU1dHNsY21temxnNjlvNjdreTdxajQ5Yjd0anF6aXNtbGN1cTgzNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YQitE4YNQNahy/giphy.webp" width="50"> A little more about me...  
+<h2 align="left">Languages & Technologies</h2>
 
-```javascript
-const chafiki = {
-  pronouns: "he" | "him",
-  Technologies: ["Laravel","php","typescript","react","javascript","java","nodejs","expressjs","mySql","PostgreSql","MongoDb"],
-  learning: ["Spring Boot", "Angular"],
- challenge: "90Days Coding None Stop !"
+###
 
-}
-```
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="35" alt="typescript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" height="35" alt="angular logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="35" alt="nodejs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="35" alt="express logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="35" alt="php logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="35" alt="laravel logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35" alt="java logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="35" alt="spring logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35" alt="mysql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="35" alt="mongodb logo"  />
+</div>
 
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3NnczJ0enJwNDd4dGZvZzVnZTJxZnQ0bWxvd3A4Z2ZhM2hlMWp1cyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26u4nJPf0JtQPdStq/100.webp" width="60"> <em>Programming is 10% writing code and 90% Googling errors.</em>
+###
 
----
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=AdamChafiki&show_icons=true&locale=en&layout=compact&theme=dark&hide=HTML,CSS,Blade,Hack"
+    media="(prefers-color-scheme: dark)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AdamChafiki&show_icons=true&locale=en&layout=compact&hide=HTML,CSS,Blade,Hack" />
+</picture>
+
+###
+
+<h2 align="left">Social Media</h2>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/saad-aboulhoda/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
