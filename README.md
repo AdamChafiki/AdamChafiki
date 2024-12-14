@@ -1,7 +1,7 @@
 <h2 class="text-left text-3xl font-semibold">About Me</h2>
 
 <p class="mt-4 text-left text-lg text-gray-700">
-  I'm a passionate Full-Stack Web Developer with a strong drive to create dynamic and user-friendly web applications. I thrive on building innovative digital solutions that push boundaries and solve real-world problems. With a keen eye for detail and a love for coding, I am always motivated to learn new technologies and stay ahead of industry trends. Let's collaborate and bring your vision to life, creating something truly impactful!
+ Only fixing bugs !
 </p>
 
 <h2 class="text-left text-3xl font-semibold mt-8">Languages & Technologies</h2>
