@@ -1,7 +1,7 @@
 <h2 class="text-left text-3xl font-semibold">About Me</h2>
 
 <p class="mt-4 text-left text-lg text-gray-700">
- Only fixing bugs !
+ Software Developer
 </p>
 
 <h2 class="text-left text-3xl font-semibold mt-8">Languages & Technologies</h2>
