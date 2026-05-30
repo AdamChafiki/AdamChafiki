@@ -56,19 +56,7 @@ Currently improving my skills in **Angular**, **Spring Boot**, **PostgreSQL**, a
 
 
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=adamchafiki3&show_icons=true&theme=tokyonight" />
-
-<br />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adamchafiki3&layout=compact&theme=tokyonight" />
-
-</div>
-
----
+![GitHub Stats](https://streak-stats.demolab.com?user=AdamChafiki&theme=default&hide_border=true)
 
 ## 🌱 Currently Learning
 
